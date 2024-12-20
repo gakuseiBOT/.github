@@ -1,4 +1,5 @@
-## Hi there 👋
+## welcome
+gakuseiBOT開発チームのgithubチームです。
 
 <!--
 
